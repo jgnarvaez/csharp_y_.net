@@ -1,0 +1,15 @@
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\bin\Debug\net6.0\01_Tipos_de_datos_y_var.exe
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\bin\Debug\net6.0\01_Tipos_de_datos_y_var.deps.json
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\bin\Debug\net6.0\01_Tipos_de_datos_y_var.runtimeconfig.json
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\bin\Debug\net6.0\01_Tipos_de_datos_y_var.dll
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\bin\Debug\net6.0\01_Tipos_de_datos_y_var.pdb
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.csproj.AssemblyReference.cache
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.AssemblyInfoInputs.cache
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.AssemblyInfo.cs
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.csproj.CoreCompileInputs.cache
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.dll
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\refint\01_Tipos_de_datos_y_var.dll
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.pdb
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\01_Tipos_de_datos_y_var.genruntimeconfig.cache
+E:\C# y .NET\01_Tipos_de_datos_y_var\01_Tipos_de_datos_y_var\obj\Debug\net6.0\ref\01_Tipos_de_datos_y_var.dll
